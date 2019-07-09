@@ -1,2 +1,2 @@
 # projectweb
-https://khanaljanak.github.io/projectweb/.
+https://khanaljanak.github.io/projectweb/index.html
